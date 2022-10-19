@@ -2,4 +2,4 @@
 
 ## Architecture
 
-![alt text](Build-VPC-Terraform/Infrastructure-architecture.jpeg)
+<img src="./Infrastructure-architecture.jpeg" alt="At text">
